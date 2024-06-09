@@ -8,9 +8,6 @@ body{
 
 #main{
     margin: 19px auto;
-    /* border: 2px solid black; */
-    /* height: 480px; */
-    /* width: auto; */
     width: 560px;
     padding: 10px;
     box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
@@ -18,8 +15,6 @@ body{
 @media (max-width: 560px) {
     #main{
         width: auto;
-        /* margin-left: 14px;
-        margin-right: 14px; */
     }
     #location, #gitlink, #id, #fo{
         font-size: 16px !important;
@@ -36,16 +31,10 @@ body{
     height: 128px;
     width: 127px;
     border-radius: 50%;
-    /* background-image: url("https://img.freepik.com/free-photo/portrait-handsome-man_23-2150770971.jpg?t=st=1717696819~exp=1717700419~hmac=e8e37acc560ac3d407e5366dfef97c64b199021c1ea71bd09ec84104329c3034&w=360"); */
-    /* background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat; */
+
 }
 .detail{
     padding: 5px 9px;
-    /* border: 2px solid black; */
-    /* height: 195px;
-    width: 390px; */
     box-shadow: 0 0 10px 5px;
 }
 #username{
@@ -61,8 +50,6 @@ body{
 .usergitdetail{
     /* border: 2px solid black; */
     height: 80px;
-    /* width: auto; */
-    /* width: 500px; */
     margin: 35px auto;
     color: wheat;
     display: flex;
@@ -81,7 +68,6 @@ body{
 .div2{
     /* border: 2px solid black;  */
     height: 100px;
-    /* width: 500px; */
     margin: auto;
 }
 .usergitdetail-2{
